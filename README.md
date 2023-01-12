@@ -10,7 +10,7 @@ My name is Jason Arnold and I'm a Full-Stack software engineer.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantitativeSneezing&count_private=true&theme=algolia)
 <!-- -->
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->
