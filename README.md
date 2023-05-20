@@ -7,7 +7,7 @@ My name is Jason Arnold and I'm a Full-Stack software engineer.
 
 ### - 👨‍🎓 Currently Learning:
 ![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=three.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=three.js&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantitativeSneezing&count_private=true&theme=algolia)
 <!-- -->
